@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Once upon a time there was a duck. Its name was Pluto and it lived in a submarine that had a drill on the front and Pluto the duck would use her drill-submarine to journey to the center of the milky way.
-=======
 This is a file that says something about Pluto!
 Pluto is not a planet!
->>>>>>> 9b5bc296324afe0e16b96bf610af33c2ad67beb4
